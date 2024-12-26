@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Hasan Segana - ENT Surgeon</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #005c7f;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        .content {
+            padding: 20px;
+        }
+        .content h2 {
+            color: #333;
+        }
+        .contact {
+            margin-top: 20px;
+        }
+        footer {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Dr. Hasan Segana</h1>
+    <p>MBBS, MS ENT, DNB ENT, DLO, MRCS ENT, FEBORL HNS</p>
+    <h2>ENT Surgeon</h2>
+</header>
+
+<div class="content">
+    <h2>About Me</h2>
+    <p>Welcome to my official website. I am a Consultant ENT Surgeon based at Wexham Park Hospital. I specialize in treating various ENT conditions for both adults and children.</p>
+    
+    <h2>Services</h2>
+    <ul>
+        <li>General ENT consultation</li>
+        <li>Surgeries for ear, nose, and throat conditions</li>
+        <li>Tonsillectomies, adenoidectomy, and more</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <div class="contact">
+        <p>Email: <a href="mailto:dr_shac@yahoo.com">dr_shac@yahoo.com</a></p>
+        <p>Phone: <a href="tel:+447440727193">07440727193</a></p>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2024 Dr. Hasan Segana. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
